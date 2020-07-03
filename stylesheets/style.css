@@ -486,8 +486,8 @@ input[type="color"],
 }
 
 .header .logo {	
-	width: 100px;
-	height: 42px;
+	width: 40%;
+	height: auto;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
 		-ms-transition: all 0.3s ease-in-out;
